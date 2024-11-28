@@ -4,7 +4,7 @@ https://themewagon.com/themes/free-bootstrap-4-html5-restaurant-website-template
 Imagenes sacadas de:
 https://www.pexels.com
 
-Programa utilizado para la base de datos (Xampp):
+Programa utilizado para la base de datos (Xampp (MySQL)):
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
 
 Iconos sacados de:
